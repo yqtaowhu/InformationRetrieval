@@ -1,2 +1,22 @@
 # InformationRetrieval
 信息检索-检索，推荐相关话题
+
+## 1. 信息检索导论
+本节主要介绍信息检索的基本知识
+| Title | Source | Comment|
+| ---- | -------|------|
+|信息检索概述|[1.信息检索概述](introduction-to-information-retrieval/1.信息检索概述.md)|信息检索概述、倒排索引、布尔检索等|
+
+
+## 2. 检索
+主要是检索系统的召回模块和排序模块
+| Title | Source | Comment|
+| ---- | -------|------|
+|检索系统概述|--|主要总体介绍自己对检索系统的理解|
+
+## 3. 推荐
+常用推荐系统模型
+
+## License
+Copyright 2020 yqtao
+
