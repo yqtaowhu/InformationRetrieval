@@ -6,6 +6,7 @@
 | Title | Source | Comment|
 | ---- | -------|------|
 |信息检索概述|[1.信息检索概述](introduction-to-information-retrieval/1.信息检索概述.md)|信息检索概述、倒排索引、布尔检索等|
+|信息检索指标|[2.信息检索相关指标](introduction-to-information-retrieval/2.信息检索相关指标概念.md)| tf-idf,bm25|
 
 
 ## 2. 检索
