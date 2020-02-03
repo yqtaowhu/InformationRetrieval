@@ -12,12 +12,17 @@
 
 ## 2. 检索
 主要是检索系统的召回模块和排序模块
+
 | Title | Source | Comment|
 | ---- | -------|------|
 |检索系统概述|--|主要总体介绍自己对检索系统的理解|
 
 ## 3. 推荐
 常用推荐系统模型
+
+| Title | Source | Comment|
+| ---- | -------|------|
+|主流的ctr模型|[主流ctr模型](recommendation/1.主流ctr模型演进.md)|目前常用的ctr模型介绍|
 
 ## License
 Copyright 2020 yqtao
