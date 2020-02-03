@@ -3,6 +3,7 @@
 
 ## 1. 信息检索导论
 本节主要介绍信息检索的基本知识
+
 | Title | Source | Comment|
 | ---- | -------|------|
 |信息检索概述|[1.信息检索概述](introduction-to-information-retrieval/1.信息检索概述.md)|信息检索概述、倒排索引、布尔检索等|
